@@ -33,7 +33,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Class Representative (CR)** | **Priyanshu Raj (CR)** | `priyanshu_cr` | `priyanshu123` | `25008258` | `GGV/25/234/0064` |
 | **Classmate (Student 1)** | **Prakash Kumar** | `prakash` | `prakash123` | `25008254` | `GGV/25/234/0065` |
-| **Classmate (Student 2)** | **Ravikant** | `ravikant` | `ravi123` | `25008264 | `GGV/25/234/0088` |
+| **Classmate (Student 2)** | **Ravikant** | `ravikant` | `ravi123` | `25008264` | `GGV/25/234/0088` |
 
 *(New student accounts can also be registered directly on the portal)*
 
