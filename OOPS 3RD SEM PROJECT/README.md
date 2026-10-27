@@ -32,7 +32,7 @@
 | Role | Name | Username | Password | Roll Number | Enrollment Number |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Class Representative (CR)** | **Priyanshu Raj (CR)** | `priyanshu_cr` | `priyanshu123` | `25008258` | `GGV/25/234/0064` |
-| **Classmate (Student 1)** | **Prakash Kumar** | `prakash` | `prakash123` | `23ITB25` | `0101IT231025` |
+| **Classmate (Student 1)** | **Prakash Kumar** | `prakash` | `prakash123` | `25008254` | `GGV/25/234/0065` |
 | **Classmate (Student 2)** | **Ravikant** | `ravikant` | `ravi123` | `25008264 | `GGV/25/234/0088` |
 
 *(New student accounts can also be registered directly on the portal)*
@@ -103,5 +103,4 @@ $$\text{Consecutive Classes to Attend} = \left\lceil \frac{XT - 100P}{100 - X} \
 
 ---
 
-## 📄 Viva Preparation
-Refer to [`Viva_Preparation_Guide.md`](file:///d:/OOPS%203RD%20SEM%20PROJECT/Viva_Preparation_Guide.md) for detailed viva questions, model answers, and concept explanations for each member.
+
